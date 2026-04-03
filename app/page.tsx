@@ -1,5 +1,6 @@
-import Image from "next/image";
+"use client";
 import RocketR from "./rocket";
+import InternalMenu from "./tail-checker";
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
                 sunbee@shinee.kr
               </a>
             </span>
+            <InternalMenu />
           </p>
         </div>
       </main>
