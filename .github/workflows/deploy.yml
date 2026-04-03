@@ -29,6 +29,9 @@ jobs:
       - name: Add .nojekyll to out folder
         run: touch ./out/.nojekyll
 
+      - name: Add CNAME for custom domain
+        run: echo "shinee.kr" > ./out/CNAME
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
