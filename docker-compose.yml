@@ -2,13 +2,13 @@ version: "3.8"
 
 services:
   web:
-    build: .
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        BASE_IMAGE: node:20-alpine # Use a lightweight OS (Alpine Linux)
     ports:
       - "3000:3000"
     environment:
       - NODE_ENV=development
-    volumes:
-      - .:/app
-      - /app/node_modules
-    working_dir: /app
-    command: yarn dev
+    # No volumes or custom command needed for static export

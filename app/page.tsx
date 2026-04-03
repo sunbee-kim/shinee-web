@@ -15,7 +15,15 @@ export default function Home() {
                 sunbee@shinee.kr
               </a>
             </span>
-            <InternalMenu />
+            <span>
+              -{" "}
+              <a
+                href="http://rocket.shinee.kr:2283/share/B3KvMNh0NfJpH2ngdmSDZKaVKx972Cx3SccIhF775y4u0bVsQca3bfsfMTuYTQk6B1I"
+                target="_blank"
+              >
+                Sunbee archive
+              </a>
+            </span>
           </p>
         </div>
       </main>
