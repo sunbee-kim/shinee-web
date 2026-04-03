@@ -1,7 +1,10 @@
 1:"$Sreact.fragment"
-2:I[43042,["/_next/static/chunks/0dbhjjzl8qfwv.js","/_next/static/chunks/15vvj-a4mpigv.js"],"default"]
-3:I[97367,["/_next/static/chunks/0dbhjjzl8qfwv.js"],"OutletBoundary"]
-4:"$Sreact.suspense"
+2:I[47257,["/_next/static/chunks/0dbhjjzl8qfwv.js"],"ClientPageRoot"]
+3:I[31713,["/_next/static/chunks/0dbhjjzl8qfwv.js","/_next/static/chunks/05zbozd9cqqcl.js"],"default"]
+6:I[97367,["/_next/static/chunks/0dbhjjzl8qfwv.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
 :HL["/_next/static/chunks/0n9etc74-diik.css","style"]
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex flex-col flex-1 items-center justify-center bg-zinc-200 font-sans dark:bg-black","children":["$","main",null,{"className":"flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-[#79E5CB] sm:items-start","children":[["$","$L2",null,{}],["$","div",null,{"className":"flex flex-col items-center gap-6 text-center sm:items-start sm:text-left","children":["$","p",null,{"className":"flex flex-col max-w-md text-lg leading-8 text-white font-mono font-semibold","children":[["$","span",null,{"children":"팬덤 근데 이제 로켓단을 곁들인"}],["$","span",null,{"children":["$","a",null,{"href":"mailto:sunbee@shinee.kr","className":"font-extrabold","children":"sunbee@shinee.kr"}]}]]}]}]]}]}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0n9etc74-diik.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/15vvj-a4mpigv.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4m2yqnXtUrIWp71Yd6K3c"}
-5:null
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0n9etc74-diik.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/05zbozd9cqqcl.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"i169sBCHylNhorAbGI6mz"}
+4:{}
+5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null
