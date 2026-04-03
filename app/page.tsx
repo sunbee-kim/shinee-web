@@ -1,6 +1,5 @@
 "use client";
 import RocketR from "./rocket";
-import InternalMenu from "./tail-checker";
 
 export default function Home() {
   return (
