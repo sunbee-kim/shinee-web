@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[43042,["/shinee-web/_next/static/chunks/0dbhjjzl8qfwv.js","/shinee-web/_next/static/chunks/15vvj-a4mpigv.js"],"default"]
+3:I[97367,["/shinee-web/_next/static/chunks/0dbhjjzl8qfwv.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+:HL["/shinee-web/_next/static/chunks/0n9etc74-diik.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex flex-col flex-1 items-center justify-center bg-zinc-200 font-sans dark:bg-black","children":["$","main",null,{"className":"flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-[#79E5CB] sm:items-start","children":[["$","$L2",null,{}],["$","div",null,{"className":"flex flex-col items-center gap-6 text-center sm:items-start sm:text-left","children":["$","p",null,{"className":"flex flex-col max-w-md text-lg leading-8 text-white font-mono font-semibold","children":[["$","span",null,{"children":"팬덤 근데 이제 로켓단을 곁들인"}],["$","span",null,{"children":["$","a",null,{"href":"mailto:sunbee@shinee.kr","className":"font-extrabold","children":"sunbee@shinee.kr"}]}]]}]}]]}]}],[["$","link","0",{"rel":"stylesheet","href":"/shinee-web/_next/static/chunks/0n9etc74-diik.css","precedence":"next"}],["$","script","script-0",{"src":"/shinee-web/_next/static/chunks/15vvj-a4mpigv.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"BOFoSBuN78RVRCSq5bA4h"}
+5:null
